@@ -1,0 +1,7 @@
+# Flask and its extensions
+flask
+flask-session  # Not CURRENTLY needed, but in the future it should save a lot of headaches
+flask-sqlalchemy
+
+# Argon2 for password encryption
+argon2-cffi

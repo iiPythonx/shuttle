@@ -1,0 +1,7 @@
+# Hide Python cache
+__pycache__/
+*.pyc
+
+# Hide confidential data
+data/*.db
+data/server.pem
