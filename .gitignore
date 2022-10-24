@@ -3,5 +3,5 @@ __pycache__/
 *.pyc
 
 # Hide confidential data
-data/*.db
+data/db/*.db
 data/server.pem

@@ -1,5 +1,7 @@
 # Copyright 2022 iiPython
 
+import bootstrap
+
 # Modules
 import os
 import sys
